@@ -2,12 +2,16 @@
   "name": "starter",
   "version": "1.0.0",
   "private": "true",
+  "description": "一个起动机",
   "license": "MIT",
   "author": "Guany",
   "scripts": {
-    "format": "prettier --write ."
+    "lint": "eslint --fix ."
   },
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.1"
   }
 }
