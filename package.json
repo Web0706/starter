@@ -1,0 +1,13 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "private": "true",
+  "license": "MIT",
+  "author": "Guany",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
