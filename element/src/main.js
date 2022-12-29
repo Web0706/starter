@@ -1,4 +1,7 @@
+import 'normalize.css'
 import Vue from 'vue'
+import './utils/element'
+import './assets/styles/base.scss'
 import App from './App.vue'
 import router from './router'
 import store from './store'
