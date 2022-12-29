@@ -15,6 +15,7 @@ specifiers:
   eslint-plugin-vue: ^8.0.3
   less: ^4.0.0
   less-loader: ^8.0.0
+  normalize.css: ^8.0.1
   prettier: ^2.4.1
   vue: ^2.6.14
   vue-router: ^3.5.1
@@ -23,6 +24,7 @@ specifiers:
 
 dependencies:
   core-js: 3.26.1
+  normalize.css: 8.0.1
   vue: 2.7.14
   vue-router: 3.6.5_vue@2.7.14
   vuex: 3.6.2_vue@2.7.14
@@ -4952,6 +4954,10 @@ packages:
     resolution: {integrity: sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==}
     engines: {node: '>=10'}
     dev: true
+
+  /normalize.css/8.0.1:
+    resolution: {integrity: sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==}
+    dev: false
 
   /npm-run-path/2.0.2:
     resolution: {integrity: sha512-lJxZYlT4DW/bRUtFh1MQIWqmLwQfAxnqWG4HhEdjMlkrJYnJn0Jrr2u3mgxqaWsdiBc76TYkTG/mhrnYTuzfHw==}
