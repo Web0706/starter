@@ -1,4 +1,4 @@
-# vant2
+# vue2-element
 
 ## Project setup
 

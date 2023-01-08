@@ -5,11 +5,7 @@
 ## 使用说明
 
 ```sh
-npm install -g tiged
-```
-
-```sh
-tiged tlyboy/starter/subdirectory my-new-project
+npx degit tlyboy/starter/subdirectory my-new-project
 ```
 
 ## 使用许可
