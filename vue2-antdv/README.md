@@ -1,4 +1,4 @@
-# vue2-vant2
+# vue2-antdv
 
 ## Project setup
 
