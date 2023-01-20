@@ -1,6 +1,6 @@
+import Vue from 'vue'
 import 'normalize.css'
 import './assets/styles/base.less'
-import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 

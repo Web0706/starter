@@ -1,5 +1,5 @@
-import 'normalize.css'
 import Vue from 'vue'
+import 'normalize.css'
 import './utils/element'
 import './assets/styles/base.scss'
 import './assets/styles/element-variables.scss'
