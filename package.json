@@ -5,6 +5,9 @@
   "description": "一个起动机",
   "license": "MIT",
   "author": "Guany",
+  "workspaces": [
+    "*"
+  ],
   "scripts": {
     "format": "prettier --write ."
   },
