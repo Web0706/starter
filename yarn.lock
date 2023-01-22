@@ -2125,6 +2125,7 @@
     lodash "^4.17.4"
 
 "@vue/vue-loader-v15@npm:vue-loader@^15.9.7", vue-loader@^15.9.2:
+  name "@vue/vue-loader-v15"
   version "15.10.1"
   resolved "https://registry.npmmirror.com/vue-loader/-/vue-loader-15.10.1.tgz#c451c4cd05a911aae7b5dbbbc09fb913fb3cca18"
   integrity sha512-SaPHK1A01VrNthlix6h1hq4uJu7S/z0kdLUb6klubo738NeQoLbS6V9/d8Pv19tU0XdQKju3D1HSKuI8wJ5wMA==
@@ -4241,11 +4242,6 @@ core-js-compat@^3.25.1, core-js-compat@^3.6.5, core-js-compat@^3.8.3:
   integrity sha512-welaYuF7ZtbYKGrIy7y3eb40d37rG1FvzEOfe7hSLd2iD6duMDqUhRfSvCGyC46HhR6Y8JXXdZ2lnRUMkPBpvg==
   dependencies:
     browserslist "^4.21.4"
-
-core-js@3.6.5:
-  version "3.6.5"
-  resolved "https://registry.npmmirror.com/core-js/-/core-js-3.6.5.tgz#7395dc273af37fb2e50e9bd3d9fe841285231d1a"
-  integrity sha512-vZVEEwZoIsI+vPEuoF9Iqf5H7/M3eeQqWlQnYa8FSKKePuYTf5MWnxb5SDAzCa60b3JBRS5g9b+Dq7b1y/RCrA==
 
 core-js@^2.4.0:
   version "2.6.12"
