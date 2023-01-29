@@ -12,7 +12,7 @@
     "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml",
     "lint": "eslint --ext .js,.vue src",
     "test:unit": "jest --clearCache && vue-cli-service test:unit",
-    "test:ci": "npm lint && npm test:unit"
+    "test:ci": "pnpm run lint && pnpm run test:unit"
   },
   "browserslist": [
     "> 1%",

@@ -19,53 +19,47 @@ English | [简体中文](./README-zh.md)
 
 ## Build Setup
 
-```bash
-# clone the project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
-
-# enter the project directory
-cd vue-admin-template
-
+```sh
 # install dependency
-npm install
+pnpm install
 
 # develop
-npm dev
+pnpm run dev
 ```
 
 This will automatically open http://localhost:9528
 
 ## Build
 
-```bash
+```sh
 # build for test environment
-npm build:stage
+pnpm run build:stage
 
 # build for production environment
-npm build:prod
+pnpm run build:prod
 ```
 
 ## Advanced
 
-```bash
+```sh
 # preview the release environment effect
-npm preview
+pnpm run preview
 
 # preview the release environment effect + static resource analysis
-npm preview -- --report
+pnpm run preview --report
 
 # code format check
-npm lint
+pnpm run lint
 
 # code format check and auto fix
-npm lint -- --fix
+pnpm run lint --fix
 ```
 
 Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) for more information
 
 ## Demo
 
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+![demo](https://raw.githubusercontent.com/PanJiaChen/PanJiaChen.github.io/master/images/demo.gif)
 
 ## Extra
 
