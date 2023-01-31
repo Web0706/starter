@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <a-button type="primary">Primary</a-button>
+    <a-button type="primary">主要按钮</a-button>
   </div>
 </template>
 
