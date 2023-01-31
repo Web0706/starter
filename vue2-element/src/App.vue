@@ -1,28 +1,18 @@
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view />
+    <el-scrollbar>
+      <router-view />
+    </el-scrollbar>
   </div>
 </template>
 
 <style lang="scss">
 #app {
-  text-align: center;
-  color: #2c3e50;
-}
+  .el-scrollbar {
+    height: 100vh;
 
-nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
+    .el-scrollbar__wrap {
+      overflow-x: hidden;
     }
   }
 }
