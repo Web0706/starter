@@ -7,11 +7,9 @@
 </template>
 
 <script>
-import { defineComponent } from 'vue'
-
-export default defineComponent({
+export default {
   name: 'App'
-})
+}
 </script>
 
 <style lang="scss">

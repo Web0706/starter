@@ -19,7 +19,6 @@
     "last 2 versions"
   ],
   "dependencies": {
-    "@vue/composition-api": "latest",
     "axios": "0.18.1",
     "core-js": "3.6.5",
     "element-ui": "2.13.2",
@@ -37,7 +36,6 @@
     "@vue/cli-plugin-unit-jest": "4.4.4",
     "@vue/cli-service": "4.4.4",
     "@vue/eslint-config-prettier": "6.0.0",
-    "@vue/runtime-dom": "latest",
     "@vue/test-utils": "1.0.0-beta.29",
     "autoprefixer": "9.5.1",
     "babel-eslint": "10.1.0",
