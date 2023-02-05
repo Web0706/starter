@@ -5,6 +5,7 @@ specifiers:
   '@vue/cli-plugin-eslint': 4.4.4
   '@vue/cli-plugin-unit-jest': 4.4.4
   '@vue/cli-service': 4.4.4
+  '@vue/composition-api': latest
   '@vue/eslint-config-prettier': 6.0.0
   '@vue/runtime-dom': latest
   '@vue/test-utils': 1.0.0-beta.29
@@ -40,6 +41,7 @@ specifiers:
   vuex: 3.1.0
 
 dependencies:
+  '@vue/composition-api': 1.7.1_vue@2.6.10
   axios: 0.18.1
   core-js: 3.6.5
   element-ui: 2.13.2_vue@2.6.10
@@ -2160,6 +2162,14 @@ packages:
       - walrus
       - whiskers
     dev: true
+
+  /@vue/composition-api/1.7.1_vue@2.6.10:
+    resolution: {integrity: sha512-xDWoEtxGXhH9Ku3ROYX/rzhcpt4v31hpPU5zF3UeVC/qxA3dChmqU8zvTUYoKh3j7rzpNsoFOwqsWG7XPMlaFA==}
+    peerDependencies:
+      vue: '>= 2.5 < 2.7'
+    dependencies:
+      vue: 2.6.10
+    dev: false
 
   /@vue/eslint-config-prettier/6.0.0_2scktlcyvnuv7gcilmjycmyk4u:
     resolution: {integrity: sha512-wFQmv45c3ige5EA+ngijq40YpVcIkAy0Lihupnsnd1Dao5CBbPyfCzqtejFLZX1EwH/kCJdpz3t6s+5wd3+KxQ==}

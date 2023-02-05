@@ -1,4 +1,5 @@
 import Vue from 'vue'
+import vueCompositionApi from '@vue/composition-api'
 
 import 'normalize.css/normalize.css' // A modern alternative to CSS resets
 
@@ -14,6 +15,8 @@ import router from './router'
 
 import '@/icons' // icon
 import '@/permission' // permission control
+
+Vue.use(vueCompositionApi)
 
 /**
  * If you don't want to use mock-server
