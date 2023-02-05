@@ -6,7 +6,7 @@ specifiers:
   eslint-plugin-prettier: ^4.2.1
   normalize.css: ^8.0.1
   prettier: ^2.8.3
-  vite: ^4.0.4
+  vite: ^4.1.1
 
 dependencies:
   normalize.css: 8.0.1
@@ -16,7 +16,7 @@ devDependencies:
   eslint-config-prettier: 8.6.0_eslint@8.33.0
   eslint-plugin-prettier: 4.2.1_jqplj6qf3uqpxpu4gdyhwwasnq
   prettier: 2.8.3
-  vite: 4.0.4
+  vite: 4.1.1
 
 packages:
 
@@ -986,8 +986,8 @@ packages:
       punycode: 2.3.0
     dev: true
 
-  /vite/4.0.4:
-    resolution: {integrity: sha512-xevPU7M8FU0i/80DMR+YhgrzR5KS2ORy1B4xcX/cXLsvnUWvfHuqMmVU6N0YiJ4JWGRJJsLCgjEzKjG9/GKoSw==}
+  /vite/4.1.1:
+    resolution: {integrity: sha512-LM9WWea8vsxhr782r9ntg+bhSFS06FJgCvvB0+8hf8UWtvaiDagKYWXndjfX6kGl74keHJUcpzrQliDXZlF5yg==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:

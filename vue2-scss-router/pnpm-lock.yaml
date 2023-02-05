@@ -14,7 +14,7 @@ specifiers:
   eslint-plugin-vue: ^8.7.1
   normalize.css: ^8.0.1
   prettier: ^2.8.3
-  sass: ^1.57.1
+  sass: ^1.58.0
   sass-loader: ^12.6.0
   vue: ^2.7.14
   vue-router: ^3.6.5
@@ -38,8 +38,8 @@ devDependencies:
   eslint-plugin-prettier: 4.2.1_o6s4toj67ba3vratins5wgouge
   eslint-plugin-vue: 8.7.1_eslint@7.32.0
   prettier: 2.8.3
-  sass: 1.57.1
-  sass-loader: 12.6.0_sass@1.57.1
+  sass: 1.58.0
+  sass-loader: 12.6.0_sass@1.58.0
   vue-template-compiler: 2.7.14
 
 packages:
@@ -1867,7 +1867,7 @@ packages:
       postcss: 8.4.21
       postcss-loader: 6.2.1_6jdsrmfenkuhhw3gx4zvjlznce
       progress-webpack-plugin: 1.0.16_webpack@5.75.0
-      sass-loader: 12.6.0_sass@1.57.1
+      sass-loader: 12.6.0_sass@1.58.0
       ssri: 8.0.1
       terser-webpack-plugin: 5.3.6_webpack@5.75.0
       thread-loader: 3.0.4_webpack@5.75.0
@@ -5802,7 +5802,7 @@ packages:
     resolution: {integrity: sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==}
     dev: true
 
-  /sass-loader/12.6.0_sass@1.57.1:
+  /sass-loader/12.6.0_sass@1.58.0:
     resolution: {integrity: sha512-oLTaH0YCtX4cfnJZxKSLAyglED0naiYfNG1iXfU5w1LNZ+ukoA5DtyDIN5zmKVZwYNJP4KRc5Y3hkWga+7tYfA==}
     engines: {node: '>= 12.13.0'}
     peerDependencies:
@@ -5823,11 +5823,11 @@ packages:
     dependencies:
       klona: 2.0.6
       neo-async: 2.6.2
-      sass: 1.57.1
+      sass: 1.58.0
     dev: true
 
-  /sass/1.57.1:
-    resolution: {integrity: sha512-O2+LwLS79op7GI0xZ8fqzF7X2m/m8WFfI02dHOdsK5R2ECeS5F62zrwg/relM1rjSLy7Vd/DiMNIvPrQGsA0jw==}
+  /sass/1.58.0:
+    resolution: {integrity: sha512-PiMJcP33DdKtZ/1jSjjqVIKihoDc6yWmYr9K/4r3fVVIEDAluD0q7XZiRKrNJcPK3qkLRF/79DND1H5q1LBjgg==}
     engines: {node: '>=12.0.0'}
     hasBin: true
     dependencies:

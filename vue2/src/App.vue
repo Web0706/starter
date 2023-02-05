@@ -2,6 +2,14 @@
   <div id="app"></div>
 </template>
 
+<script>
+import { defineComponent } from 'vue'
+
+export default defineComponent({
+  name: 'App'
+})
+</script>
+
 <style>
 #app {
   display: flex;
