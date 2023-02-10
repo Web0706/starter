@@ -1,0 +1,21 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "author": "Guany",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.8",
+    "@vuepress/plugin-medium-zoom": "^1.9.8",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.3",
+    "vuepress": "^1.9.8"
+  }
+}

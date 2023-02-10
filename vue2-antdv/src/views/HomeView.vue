@@ -1,12 +1,20 @@
 <template>
   <div class="home">
-    <a-button type="primary">主要按钮</a-button>
+    <a-space direction="vertical">
+      <a-button type="primary">主要按钮</a-button>
+      <a-date-picker @change="onChange" />
+    </a-space>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HomeView'
+  name: 'HomeView',
+  methods: {
+    onChange(date, dateString) {
+      console.log(date, dateString)
+    }
+  }
 }
 </script>
 
