@@ -13,7 +13,7 @@
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.3",
+    "prettier": "^2.8.4",
     "vuepress": "1.9.7",
     "vuepress-theme-reco": "1.6.16"
   }
