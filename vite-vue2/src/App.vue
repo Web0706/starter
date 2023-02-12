@@ -1,0 +1,16 @@
+<script setup></script>
+
+<template>
+  <div id="app"></div>
+</template>
+
+<style>
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #ecf0f1;
+}
+</style>

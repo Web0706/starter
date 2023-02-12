@@ -8,5 +8,8 @@
       "@/*": ["src/*"]
     },
     "target": "es5"
+  },
+  "vueCompilerOptions": {
+    "target": 2.7
   }
 }
