@@ -10,7 +10,7 @@ specifiers:
   '@vue/cli-service': ~5.0.8
   babel-plugin-component: ^1.1.1
   core-js: ^3.27.2
-  element-ui: ^2.15.12
+  element-ui: ^2.15.13
   eslint: ^7.32.0
   eslint-config-prettier: ^8.6.0
   eslint-plugin-prettier: ^4.2.1
@@ -25,7 +25,7 @@ specifiers:
 
 dependencies:
   core-js: 3.27.2
-  element-ui: 2.15.12_vue@2.7.14
+  element-ui: 2.15.13_vue@2.7.14
   normalize.css: 8.0.1
   vue: 2.7.14
   vue-router: 3.6.5_vue@2.7.14
@@ -3422,8 +3422,8 @@ packages:
     resolution: {integrity: sha512-M8WEXFuKXMYMVr45fo8mq0wUrrJHheiKZf6BArTKk9ZBYCKJEOU5H8cdWgDT+qCVZf7Na4lVUaZsA+h6uA9+PA==}
     dev: true
 
-  /element-ui/2.15.12_vue@2.7.14:
-    resolution: {integrity: sha512-Y5FMT2BPOindU2GkDEQ5ZKUVxDawKONRNMh2eL3uBx1FOtvUJ+L6IxXLVsNxq4WnaX/UnVNgWXebl7DobygZMg==}
+  /element-ui/2.15.13_vue@2.7.14:
+    resolution: {integrity: sha512-LJoatEYX6WV74FqXBss8Xfho9fh9rjDSzrDrTyREdGb1h1R3uRvmLh5jqp2JU137aj4/BgqA3K06RQpQBX33Bg==}
     peerDependencies:
       vue: ^2.5.17
     dependencies:
