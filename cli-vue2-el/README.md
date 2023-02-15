@@ -1,4 +1,4 @@
-# cli-vue2-element
+# cli-vue2-el
 
 ## Project setup
 

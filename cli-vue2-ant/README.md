@@ -1,4 +1,4 @@
-# cli-vue2-antdv
+# cli-vue2-ant
 
 ## Project setup
 
