@@ -1,4 +1,4 @@
-# vite-vue2-router
+# vite-vue2-router-pinia
 
 This template should help get you started developing with Vue 2 in Vite.
 
