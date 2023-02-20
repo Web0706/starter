@@ -15,6 +15,5 @@ export default {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #ecf0f1;
 }
 </style>
