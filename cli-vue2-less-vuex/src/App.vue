@@ -16,7 +16,7 @@ export default {
   align-items: center;
   min-height: 100vh;
 
-  ::before {
+  &::before {
     content: '';
     position: fixed;
     top: 0;

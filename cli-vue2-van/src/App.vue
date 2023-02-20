@@ -12,7 +12,7 @@ export default {
 
 <style lang="less">
 #app {
-  ::before {
+  &::before {
     content: '';
     position: fixed;
     top: 0;
