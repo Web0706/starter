@@ -20,7 +20,7 @@
     "eslint": "^8.34.0",
     "eslint-plugin-vue": "^9.9.0",
     "prettier": "^2.8.4",
-    "terser": "^5.16.3",
+    "terser": "^5.16.4",
     "vite": "^3.0.2"
   }
 }

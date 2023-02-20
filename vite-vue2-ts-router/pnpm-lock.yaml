@@ -13,7 +13,7 @@ specifiers:
   normalize.css: ^8.0.1
   npm-run-all: ^4.1.5
   prettier: ^2.8.4
-  terser: ^5.16.3
+  terser: ^5.16.4
   typescript: ~4.7.4
   vite: ^3.2.5
   vue: ^2.7.14
@@ -28,7 +28,7 @@ dependencies:
 devDependencies:
   '@rushstack/eslint-patch': 1.2.0
   '@types/node': 16.18.12
-  '@vitejs/plugin-legacy': 2.3.1_terser@5.16.3+vite@3.2.5
+  '@vitejs/plugin-legacy': 2.3.1_terser@5.16.4+vite@3.2.5
   '@vitejs/plugin-vue2': 1.1.2_vite@3.2.5+vue@2.7.14
   '@vue/eslint-config-prettier': 7.0.0_yrlhudqyxg2l7qvwle5bdpmrli
   '@vue/eslint-config-typescript': 11.0.2_fgel2bnjzjroom7mfpo2ehfaqe
@@ -37,9 +37,9 @@ devDependencies:
   eslint-plugin-vue: 9.9.0_eslint@8.34.0
   npm-run-all: 4.1.5
   prettier: 2.8.4
-  terser: 5.16.3
+  terser: 5.16.4
   typescript: 4.7.4
-  vite: 3.2.5_g6qe4fdbofcu2hx7kybqqcqhzy
+  vite: 3.2.5_xwq2f2tbo4it7enkkut3pei4mm
   vue-tsc: 0.38.9_typescript@4.7.4
 
 packages:
@@ -331,7 +331,7 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@vitejs/plugin-legacy/2.3.1_terser@5.16.3+vite@3.2.5:
+  /@vitejs/plugin-legacy/2.3.1_terser@5.16.4+vite@3.2.5:
     resolution: {integrity: sha512-J5KaGBlSt2tEYPVjM/C8dA6DkRzkFkbPe+Xb4IX5G+XOV5OGbVAfkMjKywdrkO3gGynO8S98i71Lmsff4cWkCQ==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -343,8 +343,8 @@ packages:
       magic-string: 0.26.7
       regenerator-runtime: 0.13.11
       systemjs: 6.13.0
-      terser: 5.16.3
-      vite: 3.2.5_g6qe4fdbofcu2hx7kybqqcqhzy
+      terser: 5.16.4
+      vite: 3.2.5_xwq2f2tbo4it7enkkut3pei4mm
     dev: true
 
   /@vitejs/plugin-vue2/1.1.2_vite@3.2.5+vue@2.7.14:
@@ -354,7 +354,7 @@ packages:
       vite: '>=2.5.10'
       vue: ^2.7.0-0
     dependencies:
-      vite: 3.2.5_g6qe4fdbofcu2hx7kybqqcqhzy
+      vite: 3.2.5_xwq2f2tbo4it7enkkut3pei4mm
       vue: 2.7.14
     dev: true
 
@@ -2115,8 +2115,8 @@ packages:
     resolution: {integrity: sha512-P3cgh2bpaPvAO2NE3uRp/n6hmk4xPX4DQf+UzTlCAycssKdqhp6hjw+ENWe+aUS7TogKRFtptMosTSFeC6R55g==}
     dev: true
 
-  /terser/5.16.3:
-    resolution: {integrity: sha512-v8wWLaS/xt3nE9dgKEWhNUFP6q4kngO5B8eYFUuebsu7Dw/UNAnpUod6UHo04jSSkv8TzKHjZDSd7EXdDQAl8Q==}
+  /terser/5.16.4:
+    resolution: {integrity: sha512-5yEGuZ3DZradbogeYQ1NaGz7rXVBDWujWlx1PT8efXO6Txn+eWbfKqB2bTDVmFXmePFkoLU6XI8UektMIEA0ug==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
@@ -2207,7 +2207,7 @@ packages:
       spdx-expression-parse: 3.0.1
     dev: true
 
-  /vite/3.2.5_g6qe4fdbofcu2hx7kybqqcqhzy:
+  /vite/3.2.5_xwq2f2tbo4it7enkkut3pei4mm:
     resolution: {integrity: sha512-4mVEpXpSOgrssFZAOmGIr85wPHKvaDAcXqxVxVRZhljkJOMZi1ibLibzjLHzJvcok8BMguLc7g1W6W/GqZbLdQ==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
@@ -2237,7 +2237,7 @@ packages:
       postcss: 8.4.21
       resolve: 1.22.1
       rollup: 2.79.1
-      terser: 5.16.3
+      terser: 5.16.4
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
