@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "pinia": "^2.0.30",
+    "pinia": "^2.0.31",
     "vue": "^2.7.14"
   },
   "devDependencies": {
