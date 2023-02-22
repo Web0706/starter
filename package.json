@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "Guany",
   "scripts": {
-    "format": "prettier --write ."
+    "lint": "prettier --write ."
   },
   "devDependencies": {
     "prettier": "^2.8.4"

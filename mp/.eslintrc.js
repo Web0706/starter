@@ -9,6 +9,9 @@ module.exports = {
     browser: true,
     node: true
   },
+  ecmaFeatures: {
+    modules: true
+  },
   parserOptions: {
     ecmaVersion: 2018,
     sourceType: 'module'
@@ -23,8 +26,6 @@ module.exports = {
     requirePlugin: true,
     requireMiniProgram: true
   },
-  extends: ['eslint:recommended', 'plugin:prettier/recommended'],
-  rules: {
-    'prettier/prettier': 'warn'
-  }
+  // extends: 'eslint:recommended',
+  rules: {}
 }
