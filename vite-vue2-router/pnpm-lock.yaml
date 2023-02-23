@@ -4,7 +4,7 @@ specifiers:
   '@rushstack/eslint-patch': ^1.2.0
   '@vitejs/plugin-legacy': ^2.3.1
   '@vitejs/plugin-vue2': ^1.1.2
-  '@vue/eslint-config-prettier': ^7.0.0
+  '@vue/eslint-config-prettier': ^7.1.0
   eslint: ^8.34.0
   eslint-plugin-vue: ^9.9.0
   normalize.css: ^8.0.1
@@ -23,7 +23,7 @@ devDependencies:
   '@rushstack/eslint-patch': 1.2.0
   '@vitejs/plugin-legacy': 2.3.1_terser@5.16.4+vite@3.2.5
   '@vitejs/plugin-vue2': 1.1.2_vite@3.2.5+vue@2.7.14
-  '@vue/eslint-config-prettier': 7.0.0_yrlhudqyxg2l7qvwle5bdpmrli
+  '@vue/eslint-config-prettier': 7.1.0_yrlhudqyxg2l7qvwle5bdpmrli
   eslint: 8.34.0
   eslint-plugin-vue: 9.9.0_eslint@8.34.0
   prettier: 2.8.4
@@ -211,8 +211,8 @@ packages:
       postcss: 8.4.21
       source-map: 0.6.1
 
-  /@vue/eslint-config-prettier/7.0.0_yrlhudqyxg2l7qvwle5bdpmrli:
-    resolution: {integrity: sha512-/CTc6ML3Wta1tCe1gUeO0EYnVXfo3nJXsIhZ8WJr3sov+cGASr6yuiibJTL6lmIBm7GobopToOuB3B6AWyV0Iw==}
+  /@vue/eslint-config-prettier/7.1.0_yrlhudqyxg2l7qvwle5bdpmrli:
+    resolution: {integrity: sha512-Pv/lVr0bAzSIHLd9iz0KnvAr4GKyCEl+h52bc4e5yWuDVtLgFwycF7nrbWTAQAS+FU6q1geVd07lc6EWfJiWKQ==}
     peerDependencies:
       eslint: '>= 7.28.0'
       prettier: '>= 2.0.0'
