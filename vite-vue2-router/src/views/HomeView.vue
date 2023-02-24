@@ -1,5 +1,5 @@
 <template>
-  <div class="home"></div>
+  <main class="home"></main>
 </template>
 
 <style scoped>
@@ -9,5 +9,6 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: #ecf0f1;
 }
 </style>

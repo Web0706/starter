@@ -5,9 +5,9 @@ const counter = useCounterStore()
 </script>
 
 <template>
-  <div class="home">
+  <main class="home">
     <button @click="counter.increment">+ {{ counter.count }}</button>
-  </div>
+  </main>
 </template>
 
 <style scoped>
@@ -17,5 +17,6 @@ const counter = useCounterStore()
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: #ecf0f1;
 }
 </style>

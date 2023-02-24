@@ -1,10 +1,10 @@
 <template>
-  <div class="home">
+  <main class="home">
     <a-space direction="vertical">
       <a-button type="primary">主要按钮</a-button>
       <a-date-picker @change="onChange" />
     </a-space>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -25,5 +25,6 @@ export default {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: #ecf0f1;
 }
 </style>

@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <main class="home">
     <van-button type="primary">主要按钮</van-button>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -17,5 +17,6 @@ export default {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-color: #ecf0f1;
 }
 </style>
