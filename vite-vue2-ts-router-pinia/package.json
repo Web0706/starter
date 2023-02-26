@@ -1,5 +1,5 @@
 {
-  "name": "vite-vue2-ts-router-pinia",
+  "name": "starter",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

@@ -1,4 +1,4 @@
-# cli-vue2-ant
+# starter
 
 ## Project setup
 

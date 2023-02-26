@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'vuepress-reco',
-  description: '这是我的新博客',
+  title: 'starter',
+  description: '',
   head: [
     [
       'link',
@@ -13,8 +13,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'vuepress-reco',
-      description: '这是我的新博客'
+      title: 'starter',
+      description: ''
     }
   },
   theme: 'reco',
@@ -57,7 +57,7 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: '上次更新',
-    author: 'vuepress-reco',
+    author: 'Guany',
     authorAvatar: '/assets/img/avatar.webp',
     startYear: '2023',
     noFoundPageByTencent: false

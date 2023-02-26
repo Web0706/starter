@@ -1,5 +1,8 @@
 {
   "pages": ["pages/home/home"],
+  "resolveAlias": {
+    "@/*": "/*"
+  },
   "sitemapLocation": "sitemap.json",
   "style": "v2",
   "window": {

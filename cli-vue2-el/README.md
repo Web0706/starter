@@ -1,4 +1,4 @@
-# cli-vue2-el
+# starter
 
 ## Project setup
 

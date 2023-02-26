@@ -1,4 +1,4 @@
-# cli-vue2-scss
+# starter
 
 ## Project setup
 

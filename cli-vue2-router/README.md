@@ -1,4 +1,4 @@
-# cli-vue2-router
+# starter
 
 ## Project setup
 

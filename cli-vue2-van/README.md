@@ -1,4 +1,4 @@
-# cli-vue2-van
+# starter
 
 ## Project setup
 

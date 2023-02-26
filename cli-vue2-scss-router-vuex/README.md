@@ -1,4 +1,4 @@
-# cli-vue2-scss-router-vuex
+# starter
 
 ## Project setup
 

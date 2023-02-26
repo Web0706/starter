@@ -1,4 +1,4 @@
-# cli-vue2-scss-vuex
+# starter
 
 ## Project setup
 

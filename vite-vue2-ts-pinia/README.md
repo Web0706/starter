@@ -1,4 +1,4 @@
-# vite-vue2-ts-pinia
+# starter
 
 This template should help get you started developing with Vue 2 in Vite.
 

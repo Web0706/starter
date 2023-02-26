@@ -1,7 +1,7 @@
 {
-  "name": "mp",
+  "name": "starter",
   "version": "1.0.0",
-  "description": "这是我的新小程序",
+  "description": "",
   "private": true,
   "scripts": {
     "lint": "prettier --write ."

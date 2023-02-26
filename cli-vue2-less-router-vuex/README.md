@@ -1,4 +1,4 @@
-# cli-vue2-less-router-vuex
+# starter
 
 ## Project setup
 

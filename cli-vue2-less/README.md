@@ -1,4 +1,4 @@
-# cli-vue2-less
+# starter
 
 ## Project setup
 

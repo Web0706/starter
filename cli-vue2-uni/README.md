@@ -1,4 +1,4 @@
-# cli-vue2-uni
+# starter
 
 ## Project setup
 

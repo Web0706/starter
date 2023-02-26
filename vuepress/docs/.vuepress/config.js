@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'VuePress',
-  description: '这是我的新文档',
+  title: 'starter',
+  description: '',
   head: [
     [
       'link',
@@ -13,8 +13,8 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'VuePress',
-      description: '这是我的新文档'
+      title: 'starter',
+      description: ''
     }
   },
   themeConfig: {
