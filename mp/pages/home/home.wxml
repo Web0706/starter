@@ -1,4 +1,2 @@
 <!--pages/home/home.wxml-->
-<view class="app home">
-
-</view>
+<view class="home"></view>
