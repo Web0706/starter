@@ -14,7 +14,7 @@ specifiers:
   babel-plugin-dynamic-import-node: ^2.3.3
   chalk: ^2.4.2
   connect: ^3.6.6
-  core-js: ^3.28.0
+  core-js: ^3.29.0
   element-ui: ^2.15.13
   eslint: ^6.7.2
   eslint-plugin-prettier: ^3.3.1
@@ -40,7 +40,7 @@ specifiers:
 
 dependencies:
   axios: 0.18.1
-  core-js: 3.28.0
+  core-js: 3.29.0
   element-ui: 2.15.13_vue@2.7.14
   js-cookie: 2.2.0
   normalize.css: 7.0.0
@@ -51,7 +51,7 @@ dependencies:
   vuex: 3.1.0
 
 devDependencies:
-  '@vue/cli-plugin-babel': 4.5.19_ulaxnf3oj2bi72r2wpxm3vaopu
+  '@vue/cli-plugin-babel': 4.5.19_fb2t5svteeeyd74lxadg3rxwsa
   '@vue/cli-plugin-eslint': 4.5.19_ejynp5wtgnldsno2c3uzaabxky
   '@vue/cli-plugin-unit-jest': 4.5.19_lhbd4qxvmzptiawddmlxtaegpm
   '@vue/cli-service': 4.5.19_rah7hulul4rrn7yrmi2zth6cfm
@@ -1835,7 +1835,7 @@ packages:
       svg-tags: 1.0.0
     dev: true
 
-  /@vue/babel-preset-app/4.5.19_core-js@3.28.0+vue@2.7.14:
+  /@vue/babel-preset-app/4.5.19_core-js@3.29.0+vue@2.7.14:
     resolution: {integrity: sha512-VCNRiAt2P/bLo09rYt3DLe6xXUMlhJwrvU18Ddd/lYJgC7s8+wvhgYs+MTx4OiAXdu58drGwSBO9SPx7C6J82Q==}
     peerDependencies:
       core-js: ^3
@@ -1859,7 +1859,7 @@ packages:
       '@vue/babel-plugin-jsx': 1.1.1_@babel+core@7.20.12
       '@vue/babel-preset-jsx': 1.4.0_sa6x3fc5lhsjsjpqbn4jnq5fk4
       babel-plugin-dynamic-import-node: 2.3.3
-      core-js: 3.28.0
+      core-js: 3.29.0
       core-js-compat: 3.28.0
       semver: 6.3.0
       vue: 2.7.14
@@ -1953,13 +1953,13 @@ packages:
     resolution: {integrity: sha512-GdxvNSmOw7NHIazCO8gTK+xZbaOmScTtxj6eHVeMbYpDYVPJ+th3VMLWNpw/b6uOjwzzcyKlA5dRQ1DAb+gF/g==}
     dev: true
 
-  /@vue/cli-plugin-babel/4.5.19_ulaxnf3oj2bi72r2wpxm3vaopu:
+  /@vue/cli-plugin-babel/4.5.19_fb2t5svteeeyd74lxadg3rxwsa:
     resolution: {integrity: sha512-8ebXzaMW9KNTMAN6+DzkhFsjty1ieqT7hIW5Lbk4v30Qhfjkms7lBWyXPGkoq+wAikXFa1Gnam2xmWOBqDDvWg==}
     peerDependencies:
       '@vue/cli-service': ^3.0.0 || ^4.0.0-0
     dependencies:
       '@babel/core': 7.20.12
-      '@vue/babel-preset-app': 4.5.19_core-js@3.28.0+vue@2.7.14
+      '@vue/babel-preset-app': 4.5.19_core-js@3.29.0+vue@2.7.14
       '@vue/cli-service': 4.5.19_rah7hulul4rrn7yrmi2zth6cfm
       '@vue/cli-shared-utils': 4.5.19
       babel-loader: 8.3.0_nwtvwtk5tmh22l2urnqucz7kqu
@@ -4217,8 +4217,8 @@ packages:
     deprecated: core-js@<3.23.3 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Some versions have web compatibility issues. Please, upgrade your dependencies to the actual version of core-js.
     requiresBuild: true
 
-  /core-js/3.28.0:
-    resolution: {integrity: sha512-GiZn9D4Z/rSYvTeg1ljAIsEqFm0LaN9gVtwDCrKL80zHtS31p9BAjmTxVqTQDMpwlMolJZOFntUG2uwyj7DAqw==}
+  /core-js/3.29.0:
+    resolution: {integrity: sha512-VG23vuEisJNkGl6XQmFJd3rEG/so/CNatqeE+7uZAwTSwFeB/qaO0be8xZYUNWprJ/GIwL8aMt9cj1kvbpTZhg==}
     requiresBuild: true
 
   /core-util-is/1.0.2:
