@@ -1,6 +1,6 @@
 # starter
 
-一个起动机。
+starter
 
 ## 使用说明
 
